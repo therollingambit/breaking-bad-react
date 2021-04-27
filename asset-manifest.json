@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/breaking-bad-react/static/css/main.c0a47be2.chunk.css",
+    "main.js": "/breaking-bad-react/static/js/main.e9e3c92e.chunk.js",
+    "main.js.map": "/breaking-bad-react/static/js/main.e9e3c92e.chunk.js.map",
+    "runtime-main.js": "/breaking-bad-react/static/js/runtime-main.6d936ecc.js",
+    "runtime-main.js.map": "/breaking-bad-react/static/js/runtime-main.6d936ecc.js.map",
+    "static/js/2.183d6bb2.chunk.js": "/breaking-bad-react/static/js/2.183d6bb2.chunk.js",
+    "static/js/2.183d6bb2.chunk.js.map": "/breaking-bad-react/static/js/2.183d6bb2.chunk.js.map",
+    "index.html": "/breaking-bad-react/index.html",
+    "static/css/main.c0a47be2.chunk.css.map": "/breaking-bad-react/static/css/main.c0a47be2.chunk.css.map",
+    "static/js/2.183d6bb2.chunk.js.LICENSE.txt": "/breaking-bad-react/static/js/2.183d6bb2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/breaking-bad-react/static/media/bg.085908ea.jpg",
+    "static/media/logo.e6ecab44.png": "/breaking-bad-react/static/media/logo.e6ecab44.png",
+    "static/media/spinner.11d9cde8.gif": "/breaking-bad-react/static/media/spinner.11d9cde8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d936ecc.js",
+    "static/js/2.183d6bb2.chunk.js",
+    "static/css/main.c0a47be2.chunk.css",
+    "static/js/main.e9e3c92e.chunk.js"
+  ]
+}
